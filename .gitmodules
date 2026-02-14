@@ -1,0 +1,6 @@
+[submodule "SFHacks_2026_arduino_gateway_service"]
+	path = SFHacks_2026_arduino_gateway_service
+	url = https://github.com/Josue-Crz/SFHacks_2026_arduino_gateway_service.git
+[submodule "Sf_Hacks_Dashboard"]
+	path = Sf_Hacks_Dashboard
+	url = https://github.com/LuisGon4/Sf_Hacks_Dashboard.git
