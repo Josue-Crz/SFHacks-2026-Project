@@ -24,3 +24,5 @@ Slideshow made during SF Hacks initiated by [@WaiLwinO](https://github.com/WaiLw
 - [ ] Creating a webhook and exploring other options as opposed to standard REST standards
 - [ ] Integration of Artificial Intelligence in dashboard for real time parsing data and feedback for users on eco safety based on the weather around themselves
  
+<h3>Other Goals</h3>
+- [ ] Refactor Greensense using the RaspberryPi 4 Model B for ease WiFi/Networking capabilities as opposed to parsing Serial Py information
