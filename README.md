@@ -26,4 +26,4 @@ Slideshow made during SF Hacks initiated by [@WaiLwinO](https://github.com/WaiLw
  
 <h3>Other Goals</h3>
 
-- [ ] Refactor Greensense using the RaspberryPi 4 Model B for ease WiFi/Networking capabilities as opposed to parsing Serial Py information
+- [ ] Refactor Greensense using the RaspberryPi 4 Model B for ease WiFi/Networking capabilities as opposed to parsing Serial Py information and sending it to the client outside of a localhost network.
