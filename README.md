@@ -16,6 +16,13 @@ Slideshow made during SF Hacks initiated by [@WaiLwinO](https://github.com/WaiLw
 <br>
 [Slideshow Presentation](https://www.canva.com/design/DAHBVCWiJZw/kZGviSNUuthjVmJBRI87bw/edit)
 
+<h3>Physical Prototype during SFHacks presentation</h3>
+
+![physical-prototype](/static/Physical-Prototype.jpeg)
+
+<h3>Wire Diagram using Fritzing to promote organized hardware layout for initial prototyping</h3>
+
+![fritzing-diagram](/static/wireDiagramGreenSenseDevice.png)
 
 <h2> Long Term Plans Post Hackathon </h2>
 
